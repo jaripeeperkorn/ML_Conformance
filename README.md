@@ -1,5 +1,11 @@
 
-Under construction
+If you use any of the code/data presented here please cite:
+Peeperkorn, J., vanden Broucke, S., \& De Weerdt, J. Global Conformance Checking Measures Using Shallow Representation and Deep Learning, Engineering Applications of Artificial Intelligence, 2023
+
+
+
+
+[Under construction]
 
 Additional material fo the paper "Global Conformance Checking Measures Using Shallow Representation and Deep Learning"
 
